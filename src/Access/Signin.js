@@ -92,6 +92,7 @@ export default function SignIn() {
               label="Remember me"
             />
             <Button
+              href="/flightbooking"
               type="submit"
               fullWidth
               variant="contained"
